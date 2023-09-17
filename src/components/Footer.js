@@ -5,7 +5,7 @@ export default function Footer() {
     <div>
       <nav>
         <ul className="nav d-flex justify-content-center">
-          <li className="nav-item ">
+          <li className="nav-item">
             <a
               href="https://github.com/anud22"
               className="nav-link text-white"
