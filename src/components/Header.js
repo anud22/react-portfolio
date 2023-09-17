@@ -1,13 +1,12 @@
 import React from 'react';
 import NavTabs from './NavTabs';
+import '../styles/style.css';
 
 export default function Header({ currentPage, handlePageChange }) {
     return (
       <header>
-        <div>
-          <h1>name</h1>
+          <h1>Anu D</h1>
           <NavTabs currentPage={currentPage} handlePageChange={handlePageChange}/>
-        </div>
       </header>
     );
   }
