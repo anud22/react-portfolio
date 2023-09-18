@@ -45,6 +45,7 @@ function Contact() {
     setName("");
     setMessage("");
     setEmail("");
+    setErrorMessage("");
   };
 
   return (

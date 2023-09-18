@@ -4,7 +4,7 @@ export default function Project() {
   return (
     <div className="d-flex flex-column">
       <div className="col-md-12 ">
-        <p className="display-4 mb-4 text-center">Portfolio</p>
+        <p className="display-4 mb-4 text-center text-white">Portfolio</p>
       </div>
       <div className="d-flex flex-row justify-content-around mb-4 mx-4">
         <div className="col-md-4 d-flex align-items-center justify-content-center">

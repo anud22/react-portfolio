@@ -12,7 +12,7 @@ export default function About() {
         />
       </div>
       <div className="d-flex flex-column">
-      <div className="col-md-9  text-white mt-3">
+      <div className="col-md-9 text-white mt-3">
         <h1 className="display-4 mb-4">Anuradha Dilbagi</h1>
       </div>
       <div className="col-md-9  text-white mt-3 custom-text">
