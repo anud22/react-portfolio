@@ -2,18 +2,15 @@ import React from "react";
 
 export default function Resume() {
   return (
-    <div className="d-flex flex-column">
-      <div>
-        <p className="mx-5 my-5 text-white">
-          {" "}
-          Download my{" "}
-          <a href="./assets/docs/Resume.docx" download>
-            Resume
-          </a>{" "}
-        </p>
+    <div className="d-flex flex-column justify-content-around text-lg">
+      <div className="d-flex m-4 col-md-4 justify-content-center text-white">
+        <span>Download my </span>
+        <a href="./assets/docs/Resume.docx" download>
+          <span>Resume</span>
+        </a>
       </div>
       <div className="text-white">
-        <div className="col-md-6 mx-5">
+        <div className="d-flex col-md-4 justify-content-center mx-5">
           <p> Front-end Proficiencies: </p>
           <ul>
             <li>HTML</li>
@@ -25,7 +22,7 @@ export default function Resume() {
           </ul>
         </div>
         <div className="text-white">
-          <div className="col-md-6 mx-5">
+          <div className="d-flex col-md-4 justify-content-center mx-5">
             <p> Back-end Proficiencies: </p>
             <ul>
               <li>APIs</li>
