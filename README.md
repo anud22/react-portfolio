@@ -5,7 +5,7 @@ This project is Single-page application portfolio for a web developer
  ## Table Of Contents
 - [Description](#description)
 - [Installation](#installation)
-- [Video](#video)
+- [Link](#Github-Link)
 - [References](#references)
 <br>
 <br>
