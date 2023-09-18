@@ -3,7 +3,7 @@ import React from "react";
 export default function Project() {
   return (
     <div className="d-flex flex-column">
-      <div className="row intro-text">
+      <div className="col-md-12 ">
         <p className="display-4 mb-4 text-center">Portfolio</p>
       </div>
       <div className="d-flex flex-row justify-content-around mb-4 mx-4">

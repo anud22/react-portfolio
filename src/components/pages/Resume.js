@@ -2,10 +2,10 @@ import React from "react";
 
 export default function Resume() {
   return (
-    <div className="d-flex flex-column justify-content-around text-lg">
-      <div className="d-flex m-4 col-md-4 justify-content-center text-white">
-        <span>Download my </span>
-        <a href="./assets/docs/Resume.docx" download>
+    <div className="d-flex flex-column custom-text">
+      <div className="d-flex my-4 col-md-4 justify-content-center text-white">
+        <span className="mx-2">Download my </span>
+        <a href="./assets/docs/Resume.docx" download> 
           <span>Resume</span>
         </a>
       </div>
