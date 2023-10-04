@@ -62,7 +62,7 @@ export default function Project() {
         <div className="col-md-4 d-flex align-items-center justify-content-center">
           <div style={{ height: "500px", width: "500px" }}>
             <a
-              href="https://anud22.github.io/module1Challenge/"
+              href="https://this-or-that-5dce821d9570.herokuapp.com/"
               data-placement="top"
               title="Mern Project- Javascript, React, Mongo, GraphQL, Express"
             >
